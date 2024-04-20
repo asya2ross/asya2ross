@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Anastasiia Morgacheva.
+- 🌱 I’m currently learning Python and JavaScript, and improving my HTML + CSS skills.
+- 👀 I’m looking for a remote Junior or Intern job.
+- 🗣 I speak Russian, English, Spanish, and Ukrainian.
+- 📫 How to reach me: asya2ross@gmail.com, +34 637 425 956
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love animals.
