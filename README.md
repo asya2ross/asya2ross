@@ -1,6 +1,6 @@
 👋 Hi, I'm Anastasiia Morgacheva (she/her)!
 
-🛠 My Toolkit
+🛠 My toolkit
 
 Programming: Python (Learning), C# (Learning)
 
