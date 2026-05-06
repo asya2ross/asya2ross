@@ -22,4 +22,4 @@ Email: asya2ross@gmail.com
 
 Phone: +34 637 425 956
 
-⚡ Fun Fact: I’m a geek and a huge animal lover!
+⚡ Fun fact: I’m a geek and a huge animal lover!
