@@ -2,9 +2,9 @@
 
 🛠 My toolkit
 
-Programming: Python (Learning), C# (Learning)
+Programming: Python (learning), C# (learning)
 
-Data: SQL & Database Management
+Data: SQL & database management
 
 Natural languages: fluent in Russian, Spanish, and English; conversational in Ukrainian. I am particularly interested in localization and NLP projects.
 
@@ -14,7 +14,7 @@ As an autistic person, I excel at pattern recognition, deep technical focus (hyp
 
 🏠 Career goal
 
-I am actively seeking a Remote Junior or Intern position. I am looking for a team that values diversity of thought and provides an environment where I can contribute and grow.
+I am actively seeking a remote Junior or Intern position. I am looking for a team that values diversity of thought and provides an environment where I can contribute and grow.
 
 📫 Let's connect
 
