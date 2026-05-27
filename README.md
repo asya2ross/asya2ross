@@ -1,10 +1,6 @@
-## 🧠 About Me
-
 👋 Hi, I'm **Anastasia** (she/her)! 
 
 I'm an entry-level professional, ready and eager to learn. 
-
-As an autistic person, I excel at **pattern recognition, analytical thinking, deep technical focus (hyper-focus), and high attention to detail**.
 
 ## 🛠 My Toolkit
 
@@ -16,7 +12,9 @@ As an autistic person, I excel at **pattern recognition, analytical thinking, de
   * 🇬🇧 English (Fluent)
   * 🇺🇦 Ukrainian (Conversational)
 
-## ⚙️ How I Work Best:
+## ⚙️ How I Work Best
+
+As an autistic person, I excel at **pattern recognition**, **analytical thinking**, **deep technical focus (hyper-focus)**, and **high attention to detail**. To make these strengths work at 100%, however, I come with a brief user manual. Here is how I operate best:
 
 * **Structure:** I thrive in environments with clear documentation and structured expectations.
 * **Communication:** I value direct, honest communication and logical problem-solving. I prefer written communication for complex tasks to ensure accuracy.
@@ -29,9 +27,8 @@ I am actively seeking a remote **Junior** or **Intern** position. I am looking f
 
 ## 📫 Let's Connect
 
-**Email:** asya2ross@gmail.com
-
-**Phone (& WhatsApp):** +34 637 425 956
+* **Email:** [asya2ross@gmail.com](mailto:asya2ross@gmail.com)
+* **Phone & WhatsApp:** [+34 637 425 956](https://wa.me/34637425956)
 
 ## ⚡ Fun Fact About Me: 
 
