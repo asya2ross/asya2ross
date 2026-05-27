@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Anastasia (she/her)!
+👋 Hi, I'm **Anastasia** (she/her)!
 
 ## 🛠 My toolkit
 
