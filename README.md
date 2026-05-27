@@ -10,13 +10,13 @@
 
 ### 🧠 About me
 
-As an autistic person, I excel at **analytical thinking, pattern recognition, high attention to detail, and deep technical focus (hyper-focus)**. 
+As an autistic person, I excel at analytical thinking, pattern recognition, high attention to detail, and deep technical focus (hyper-focus). 
 
 ### ⚙️ How I Work Best:
 * **Structure:** I thrive in environments with clear documentation and structured expectations.
 * **Communication:** I value direct, honest communication and logical problem-solving. I prefer written communication for complex tasks to ensure accuracy.
 * **Environment:** To maintain deep focus and deliver my highest productivity, I require a quiet, low-stimulus environment free from frequent distractions (either remote or a dedicated office space).
-* * **Purpose:** I am deeply motivated by roles where my work has a tangible, positive impact on people's daily lives. For me, professional fulfillment comes from knowing that my efforts contribute to meaningful solutions and drive social value.
+* **Purpose:** I am deeply motivated by roles where my work has a tangible, positive impact on people's daily lives. For me, professional fulfillment comes from knowing that my efforts contribute to meaningful solutions and drive social value.
 
 ### 🏠 Career goal
 
