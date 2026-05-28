@@ -27,7 +27,7 @@ As an autistic person, I excel at **pattern recognition**, **analytical thinking
 
 ## 🎯 Career Goal
 
-I am actively seeking a remote **Junior** or **Intern** position. I am looking for a team that values diversity of thought and provides an environment where I can contribute, add real value, and grow. 
+I am actively seeking a **Junior** or **Intern** position. I am looking for a team that values diversity of thought and provides an environment where I can contribute, add real value, and grow. 
 
 
 
