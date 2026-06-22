@@ -6,7 +6,8 @@ I'm an entry-level tech professional, ready and eager to learn!
 ## 🛠 My Toolkit
 
 * **Programming:** Python 🐍 (learning), C# 🖥️ (learning)
-* **Data:** SQL & database management 
+* **Data:** SQL & Database Management, Excel & Power Query
+*  **Cybersecurity:** Basics of InfoSec & Ethical Hacking, Bitdefender GravityZone
 * **Natural languages:** 
   * 🇷🇺 Russian (Native)
   * 🇪🇸 Spanish (Fluent)
@@ -21,6 +22,7 @@ As an autistic person, I excel at **pattern recognition**, **analytical thinking
 * **Structure:** I thrive in environments with clear documentation and structured expectations.
 * **Communication:** I value direct, honest communication and logical problem-solving. I prefer written communication for complex tasks to ensure accuracy.
 * **Environment:** To maintain deep focus and deliver my highest productivity, I require a quiet, low-stimulus environment free from frequent distractions (either remote or a dedicated office space).
+* **Schedule:** I benefit from a flexible schedule to accommodate autistic inertia and transition times. Allowing my schedule to adjust to my natural workflow — whether I need extra time to transition into tasks or choose to stay later to finish a deep-focus session — drastically increases my overall productivity.
 * **Purpose:** I am deeply motivated by roles where my work has a tangible, positive impact on people's daily lives. For me, professional fulfillment comes from knowing that my efforts contribute to meaningful solutions and drive social value.
 
 
